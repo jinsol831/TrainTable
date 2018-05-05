@@ -1,0 +1,33 @@
+body {
+    margin: auto;
+    background-image: url("images/download.jpg");  
+    width: 960px;
+    background-size: cover;                    
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("section.jpg"); 
+}
+
+
+section {
+    background-image: url("images/section.jpg"); 
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.newtrain {
+
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
